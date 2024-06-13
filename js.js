@@ -1,2 +1,1 @@
-let gay = [];
-gay.push(lorem_ipsum)
+console.log('ciao')
