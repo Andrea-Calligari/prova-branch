@@ -13,3 +13,7 @@ body {
 footer {
     font-size: 2rem;
 }
+
+header {
+    margin: 0 auto;
+}
